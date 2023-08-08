@@ -8,7 +8,7 @@
 
 ## Notes
 
-Question 3 of the analysis returned zero results. I originally thought this might have been my fault, so I included an extra cell of using pure Python to double check the results, which held out. If I was supposed to have a result, then either my database was flawed, or the directions were not clear on what "within 0.01 degree on either side of the latitude and longitude" meant.
+N/A
 
 ### Sources
 
